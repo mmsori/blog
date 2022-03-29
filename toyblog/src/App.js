@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import MainPage from './containers/todolist'
 import { BrowserRouter, Route, Redirect, Switch } from 'react-router-dom'
-import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
