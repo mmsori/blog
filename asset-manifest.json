@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/toyproject/static/css/main.38be36b0.css",
+    "main.js": "/toyproject/static/js/main.34ea6150.js",
+    "static/js/787.5a36192a.chunk.js": "/toyproject/static/js/787.5a36192a.chunk.js",
+    "static/media/logo.svg": "/toyproject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/toyproject/index.html",
+    "main.38be36b0.css.map": "/toyproject/static/css/main.38be36b0.css.map",
+    "main.34ea6150.js.map": "/toyproject/static/js/main.34ea6150.js.map",
+    "787.5a36192a.chunk.js.map": "/toyproject/static/js/787.5a36192a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38be36b0.css",
+    "static/js/main.34ea6150.js"
+  ]
+}
