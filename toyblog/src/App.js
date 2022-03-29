@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
     <div className="App">
-      <MainPage title={'심심한 랭킨을 살려주세요'} />
+      <MainPage title={'심심심심'} />
     </div>
   );
 }
